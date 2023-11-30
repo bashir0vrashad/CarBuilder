@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\bin\Debug\net6.0\CarBuilderTask.exe
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\bin\Debug\net6.0\CarBuilderTask.deps.json
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\bin\Debug\net6.0\CarBuilderTask.runtimeconfig.json
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\bin\Debug\net6.0\CarBuilderTask.dll
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\bin\Debug\net6.0\CarBuilderTask.pdb
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\CarBuilderTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\CarBuilderTask.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\CarBuilderTask.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\CarBuilderTask.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\CarBuilderTask.dll
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\refint\CarBuilderTask.dll
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\CarBuilderTask.pdb
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\CarBuilderTask.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\CarBuilderTask\CarBuilderTask\obj\Debug\net6.0\ref\CarBuilderTask.dll
